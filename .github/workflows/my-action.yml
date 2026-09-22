@@ -22,7 +22,7 @@ jobs:
         
             # Use github.com/actions/checkout to check out this repo
           - name: Check out this repo
-            uses: actions/checkout@v3
+            uses: actions/checkout@v7
             
             # Install necessary packages
           - name: Install dependencies
